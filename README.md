@@ -1,4 +1,4 @@
-utonomous-Robot-using-Python3
+Autonomous-Robot-using-Python3
 
 Here is a project for making an autonomous robot using RaspberryPi3 + Dexter's Industries' BrickPi3 + LEGO mindstorm NXT using python programming
 
